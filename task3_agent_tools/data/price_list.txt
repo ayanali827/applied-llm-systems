@@ -1,0 +1,5 @@
+Workshop price list (PKR)
+Lidar module: 48500
+Depth camera: 23750
+Battery pack: 61900
+Motor controller: 15300

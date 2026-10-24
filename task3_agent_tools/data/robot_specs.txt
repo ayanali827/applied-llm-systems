@@ -1,0 +1,7 @@
+Delivery Robot - Field Unit Notes
+Model: Datheon Rover X2
+Payload capacity: 18 kg
+Top speed: 6 km/h
+Battery: 840 Wh, removable
+Range per charge: 22 km
+Sensors: lidar, depth camera, ultrasonic array
