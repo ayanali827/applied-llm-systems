@@ -1,0 +1,14 @@
+TechZone Electronics
+INVOICE # TZ-5521
+Date: 3rd March 2026
+
+Bill to: Office Works Ltd
+
+Items:
+- Wireless Mouse .......... qty 4 ..... 1,250.00 each .... 5,000.00
+- USB-C Cable ............. qty 10 .... 450.00 each ...... 4,500.00
+
+Sub-total: 9,500.00
+Sales tax (5%): 475.00
+TOTAL DUE: 9,975.00 PKR
+Thank you for your business!

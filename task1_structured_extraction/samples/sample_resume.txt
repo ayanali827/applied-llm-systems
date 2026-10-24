@@ -1,0 +1,12 @@
+OMAR FAROOQ
+Contact: omar.farooq@mail.com | +92-300-1234567
+About: Software developer with 3 years of experience in web apps.
+
+SKILLS: JavaScript, React, Node.js, MongoDB
+
+WORK:
+Senior Developer --- WebWorks --- Jan 2023 -- Present
+Junior Developer --- SoftInn --- Jun 2021 -- Dec 2022
+
+EDUCATION:
+BS Software Engineering, Virtual University, graduated 2021
