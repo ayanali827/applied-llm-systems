@@ -1,5 +1,11 @@
 # applied-llm-systems
 
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1.x-1C3C3C?logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.66-FF4B4B?logo=streamlit&logoColor=white)
+![Tests](https://img.shields.io/badge/tests-54%20passing-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellowgreen)
+
 Four small, working LLM systems in Python with LangChain, plus the shared
 plumbing they all stand on: validated structured extraction, retrieval
 question-answering over PDFs, a tool-using agent, and a Streamlit chat UI
@@ -9,6 +15,18 @@ Google Gemini is the default provider. A multi-provider fallback chain
 (Gemini models, then Groq, then GitHub Models) keeps the systems answering
 when one model is unavailable, and every answer path is covered by offline
 tests and measured live evaluations.
+
+## Contents
+
+- [The four systems](#the-four-systems)
+- [Architecture](#architecture)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Design decisions worth noting](#design-decisions-worth-noting)
+- [Evaluation and tests](#evaluation-and-tests)
+- [Limitations](#limitations)
+- [Layout](#layout)
+- [License](#license)
 
 ## The four systems
 
@@ -153,3 +171,7 @@ fallback groups, and TAVILY_API_KEY enables the agent's web search.
     task3_agent_tools/           tools, agent, CLI, evaluation, data files
     task4_streamlit_app/         the combined Streamlit chat app
     tests/                       54 offline tests across all four tasks
+
+## License
+
+MIT — see [LICENSE](LICENSE).
