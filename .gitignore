@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+faiss_index/
+qa_history.jsonl
+task2_rag_pdf_qa/data/*.pdf
+.vscode/
