@@ -1,0 +1,38 @@
+[
+  {
+    "question": "How is robotics used in healthcare?",
+    "expected_page": 2,
+    "must_contain": ["da Vinci"],
+    "expect_refusal": false
+  },
+  {
+    "question": "How are robots used in the military?",
+    "expected_page": 3,
+    "must_contain": ["surveillance"],
+    "expect_refusal": false
+  },
+  {
+    "question": "How are robots used in agriculture?",
+    "expected_page": 2,
+    "must_contain": ["harvest"],
+    "expect_refusal": false
+  },
+  {
+    "question": "What are the main components of a robotic system?",
+    "expected_page": 3,
+    "must_contain": ["Sensors", "Actuators"],
+    "expect_refusal": false
+  },
+  {
+    "question": "Which humanoid robot works in customer service in Singapore?",
+    "expected_page": 3,
+    "must_contain": ["Nadine"],
+    "expect_refusal": false
+  },
+  {
+    "question": "What is the capital of France?",
+    "expected_page": null,
+    "must_contain": [],
+    "expect_refusal": true
+  }
+]
